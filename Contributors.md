@@ -54,6 +54,7 @@
 - [Edwina Dsouza](https://github.com/edwinadsouza)
 - EDWINA DSOUZA
 - [VulcanWM](https://github.com/VulcanWM)
+-[Abdul Mazood](https://github.com/machumzd)
 # [Steven Wong](https://github.com/ycstevenwong)
 # [V1K1NGbg](https://github.com/V1K1NGbg)
 - [DanexQ](https://github.com/DanexQ)
